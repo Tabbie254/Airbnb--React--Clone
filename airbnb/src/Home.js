@@ -37,13 +37,13 @@ function Home() {
                 src="https://media.nomadicmatt.com/2019/airbnb_breakup3.jpg"
                 title="3 Bedroom Flat in Bournemouth"
                 description="Superhost with a stunning view of the beachside in sunny Bournemouth."
-                price="130/night"
+                price="£130/night"
              />
             <Card
                 src="https://thespaces.com/wp-content/uploads/2017/08/Courtesy-of-Airbnb.jpg"
                 title="Penthouse in London"
                 description="Superhost with great amenities and a fabulous shopping complex nearby."
-                price="350/night"
+                price="£350/night"
                 
             
             />
@@ -51,7 +51,7 @@ function Home() {
                 src="https://media.nomadicmatt.com/2018/apartment.jpg"
                 title="1 Bedroom apartment"
                 description="Superhost with great amenities and a fabulous shopping complex nearby."
-                price="70/night"
+                price="£70/night"
             
             
             />

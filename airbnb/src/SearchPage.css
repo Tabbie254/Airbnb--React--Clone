@@ -1,0 +1,20 @@
+.searcPage__info{
+    padding:20px;
+
+}
+.searcPage__info> p {
+    margin-bottom:10px;
+    font-size: 14px;
+}
+
+.searcPage__info> h1 {
+    margin-bottom:30px;
+}
+
+.searcPage__info> button {
+    border-radius: 30px;
+    text-transform: inherit;
+    margin:10px;
+    position: center;
+    
+}
